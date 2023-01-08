@@ -1,0 +1,18 @@
+.pink-bg {
+    background-color: #feeae9;
+    border-radius: 50px;
+}
+.carousel-item {
+    padding: 70px;
+}
+.price {
+    color: #f70763;
+}
+.buy-button {
+    color: rgb(9, 9, 9);
+    background-color: orange;
+    font-size: 30px;
+    border-radius: 5px;
+    border-color: rgb(249, 247, 247);
+    
+}
