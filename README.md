@@ -1,2 +1,2 @@
 # panda-commerce
-#Mohiuddin_Mohammod_Munna
+©-Mohiuddin_Mohammod_Munna
